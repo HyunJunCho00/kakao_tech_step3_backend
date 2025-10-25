@@ -69,3 +69,12 @@
 |------|------|
 | **데이터 수신량 (data_received)** | 227 kB (246 B/s) |
 | **데이터 송신량 (data_sent)** | 711 kB (770 B/s) |
+
+
+
+
+### 📊 After
+
+<img width="2034" height="1175" alt="스크린샷 2025-10-26 021909" src="https://github.com/user-attachments/assets/8073f1bf-262a-4d76-a420-2a55237b75d7" />
+
+
