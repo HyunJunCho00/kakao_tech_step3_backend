@@ -78,3 +78,7 @@
 <img width="2034" height="1175" alt="스크린샷 2025-10-26 021909" src="https://github.com/user-attachments/assets/8073f1bf-262a-4d76-a420-2a55237b75d7" />
 
 
+<2025/10/28>
+
+<img width="2034" height="1358" alt="image" src="https://github.com/user-attachments/assets/521485c2-a258-47da-beaf-d2936415dcbc" />
+
